@@ -1,10 +1,10 @@
 # NoiseSetup
 GUI with controls for libnoise
-
-Additional libraries:
-libnoise
-glew
-opengl
-GLU
-glfw
-qt5-base
+<br><br>
+Additional libraries:<br>
+libnoise<br>
+glew<br>
+opengl<br>
+GLU<br>
+glfw<br>
+qt5-base<br>
