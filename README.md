@@ -1,5 +1,6 @@
 # NoiseSetup
 GUI with controls for libnoise
+![alt text] (https://github.com/etkmichi/NoiseSetup/blob/main/Bildschirmfoto_2023-04-11_10-51-51.jpg "Runnable GUI")
 <br><br>
 Created with qtcreator and qt base installation.<br><br>
 For compiling and starting the gui the two qt-projects must be configured!<br>
