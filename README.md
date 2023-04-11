@@ -20,7 +20,13 @@ qmake /WorldGenerator/WorldGenerator/WorldGenerator.pro -spec linux-g++ CONFIG+=
 make -f /build-WorldGenerator-Desktop-Debug/Makefile qmake_all<br>
 cd /build-WorldGenerator-Desktop-Debug/<br>
 make -j24<br>
-<br><br>
+
+Attention:
+
+  * Saving any setup is not implemented!
+
+  * Buggy implementations! The app was developed to get some C++/qt experience and its not my intention to update/improve the code
+  * for sure there are some memory leaks and access violations!
 
 Additional libraries:<br>
 libnoise<br>
