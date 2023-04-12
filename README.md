@@ -1,6 +1,13 @@
 # NoiseSetup
 GUI with controls for libnoise
 
+Attention:
+
+  * Saving any setup is not implemented!
+
+  * Buggy implementations! The app was developed to get some C++/qt experience and at the moment its not my intention to update/improve the code
+  * for sure there are some memory leaks and access violations!
+  
 ![logo]
 
 [logo]: https://github.com/etkmichi/NoiseSetup/blob/main/Bildschirmfoto_2023-04-11_10-51-51.jpg
@@ -20,13 +27,6 @@ qmake /WorldGenerator/WorldGenerator/WorldGenerator.pro -spec linux-g++ CONFIG+=
 make -f /build-WorldGenerator-Desktop-Debug/Makefile qmake_all<br>
 cd /build-WorldGenerator-Desktop-Debug/<br>
 make -j24<br>
-
-Attention:
-
-  * Saving any setup is not implemented!
-
-  * Buggy implementations! The app was developed to get some C++/qt experience and its not my intention to update/improve the code
-  * for sure there are some memory leaks and access violations!
 
 Additional libraries:<br>
 libnoise<br>
