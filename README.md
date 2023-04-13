@@ -2,6 +2,7 @@
 GUI with controls for libnoise
 
 Attention:
+  * This is an old project of mine, code structure is bad and a lot of things are not implemented!
 
   * Saving any setup is not implemented!
 
