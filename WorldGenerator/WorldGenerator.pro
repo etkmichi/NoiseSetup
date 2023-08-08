@@ -10,7 +10,7 @@ greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 
 TARGET = WorldGenerator
-TEMPLATE = lib
+#TEMPLATE = lib
 
 
 SOURCES += main.cpp\
